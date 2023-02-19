@@ -21,6 +21,7 @@
         <tr>
             <td valign="center"><img width="100" src="https://i.postimg.cc/N06vw1Zk/884c3e2961d86a934035e9dbd7c26a00.webp"><br/><a href="https://discord.gg/Deh4NxK4w6" target="_blank">서버리스트</a><br/>2023년 1월 28일 ~</td>
             <td valign="center"><img width="100" src="https://i.postimg.cc/bvDHGgq1/0dee61e6e6c880d38203bc205aa639cf.webp"><br/><a href="https://discord.gg/ZK8ERpv3ew" target="_blank">러블리</a><br/>2023년 1월 28일 ~ 2023년 2월 10일</td>
+            <td valign="center"><img width="100" src="https://i.postimg.cc/dQTD90gt/g.png"><br/><a href="https://discord.com/api/oauth2/authorize?client_id=1076752708767322204&permissions=8&scope=bot%20applications.commands" target="_blank">급식</a><br/>2023년 2월 19일 ~</td>
         </tr>
     </table>
 </h5>
